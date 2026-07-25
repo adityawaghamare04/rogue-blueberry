@@ -6,7 +6,7 @@ The playground v3.0 🧸🕹
 
 ## DOI
 
-https://zenodo.org/records/21568870
+https://zenodo.org/records/21568869
 
-You can cite all versions by using the DOI 10.5281/zenodo.21568870. This DOI represents all versions, and will always resolve to the latest one.
+You can cite all versions by using the DOI 10.5281/zenodo.21568869. This DOI represents all versions, and will always resolve to the latest one.
 
